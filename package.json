@@ -2,7 +2,7 @@
   "name": "gatsby-theme-react-native-paper",
   "description": "This theme adds support for building Gatsby sites using React Native Paper.",
   "repository": "https://github.com/piducancore/gatsby-theme-react-native-paper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "author": "@piducancore",
   "license": "MIT",
