@@ -8,6 +8,7 @@
     "react",
     "react-native",
     "react-native-paper",
+    "react-native-web"
   ],
   "version": "1.0.5",
   "main": "index.js",
